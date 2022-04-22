@@ -1813,7 +1813,7 @@
     "@tryghost/debug" "^0.1.9"
     lodash "^4.17.20"
 
-"@tryghost/errors@1.2.10", "@tryghost/errors@^1.0.0", "@tryghost/errors@^1.1.0", "@tryghost/errors@^1.1.1", "@tryghost/errors@^1.2.1", "@tryghost/errors@^1.2.10", "@tryghost/errors@^1.2.3", "@tryghost/errors@^1.2.5":
+"@tryghost/errors@1.2.10":
   version "1.2.10"
   resolved "https://registry.yarnpkg.com/@tryghost/errors/-/errors-1.2.10.tgz#b01b16744986005784ffd6916eec48a3e93976a9"
   integrity sha512-v5r5JzhQTkNLJBk66B75x+jyOE/WxzEBfeAtA3y1YaFtl9SQMaN1qi/7+sQzt0VrLk1qtqAOReWc/1Cncy9gOg==
@@ -1822,7 +1822,7 @@
     utils-copy-error "^1.0.1"
     uuid "^8.3.2"
 
-"@tryghost/errors@1.2.11":
+"@tryghost/errors@1.2.11", "@tryghost/errors@^1.0.0", "@tryghost/errors@^1.1.0", "@tryghost/errors@^1.1.1", "@tryghost/errors@^1.2.1", "@tryghost/errors@^1.2.10", "@tryghost/errors@^1.2.3", "@tryghost/errors@^1.2.5":
   version "1.2.11"
   resolved "https://registry.yarnpkg.com/@tryghost/errors/-/errors-1.2.11.tgz#3b3725f5ae8c35d4f264386e1e8fe39009713900"
   integrity sha512-C7zFxqP9QjGBOHd7nRMzsAU9OlK71dhYkqPInYgLFLyIT7j4fFKgn8Z4ZQ6ucs7v7qG3UKoo0U7vnMGJAOFuag==
@@ -2136,10 +2136,10 @@
   optionalDependencies:
     promise.allsettled "^1.0.5"
 
-"@tryghost/minifier@0.1.12":
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/@tryghost/minifier/-/minifier-0.1.12.tgz#32d92a58597577f6df19df1874184994e9606900"
-  integrity sha512-uhs3rh7ZqMfPsd0KnoxX1fiHw4rP8X8OqTDe9nVkPG2ne2Mv4F5IDrsI9B8o7lQFfbojas7h+1cskPPpRLI22g==
+"@tryghost/minifier@0.1.13":
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/@tryghost/minifier/-/minifier-0.1.13.tgz#8edb72690e79f62a3242a868c7d802007e103311"
+  integrity sha512-CpsilH4zs6X2tBK4IMPeOWrBVOAS6NKL/NCBylMgYMf+lTaIF5uR26gHaUdHuw01hD7IAmWin1dy7zWvme5qEQ==
   dependencies:
     "@tryghost/debug" "^0.1.8"
     "@tryghost/errors" "^1.2.1"
